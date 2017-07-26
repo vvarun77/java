@@ -1,0 +1,10 @@
+A computer is a machine made to process requests by an external user.
+It understands commands through binary, and the the american standard code information index which allows keyboard input to be translated to letters.
+Many things, such as the CPU and RAM, can be compared to a human. For instance, CPU's are like brains and RAM is like short term memory.
+Hardware are the things you can feel and touch, ex) keyboard and mouse (screen as well given touchscreen).
+Software are the things you cannot feel or touch, but they run the computers main operations. It's the language computers understand
+CPU, RAM, and Hard Disk/SSD are the main things people should look into when seeing what computer to buy. They are the most important part of a computer
+Software has multiple types: OS, Browsers, and others. Can also be described as a program or series of actions/instructions
+Decimal system is most common, given base 10 is what we normally use. Place values are determined in powers of 12
+To change bases, one can simply switch what number is being raised to the power of in order to switch bases
+Binary consists only of 1s and 0s, because it runs in base 2
