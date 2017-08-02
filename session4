@@ -1,0 +1,12 @@
+Variables are letters such as "x" and "y" to which values can be assigned
+Constants are numbers, like 2 or 3
+3 types of data, numbers, strings, and numbers with decimals
+Syntax in Java programming is equivalent to grammar in literature
+If statements are meant to output an answer for meeting  condition, or a different output for not meeting that condition
+Loops are meant to repeat a function
+ for(i=0 ; i<10 ; i++)
+naming variables; ex) string name
+commenting; //
+indentation is important for legibility and detection of faults in code
+
+
