@@ -4,15 +4,22 @@ public class Application {
 
 	public static void main(String[] args) {
 
-		System.out.print("numberoflaps");
+		System.out.print("grade");
 		Scanner scanner = new Scanner(System.in);
-		int numberoflaps = scanner.nextInt();
+		int grade = scanner.nextInt();
 
-		System.out.print("runtime");
+		if (grade <= 5) {
+			System.out.println("elementary");
 
-		int runtime = scanner.nextInt();
-
-		System.out.println(runtime * numberoflaps);
+		} else if (grade >= 5 && grade <= 9) {
+			System.out.println("middle");
+			
+		} else if (grade >= 8 && grade <= 13) {
+			System.out.println("high");
+			
+		} else {
+			System.out.println("college");
+		}
 	}
 
 }
