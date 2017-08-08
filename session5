@@ -1,0 +1,6 @@
+Scanner is a type of java utility, and it helps analyze a number that the user inputs
+There are steps to writing programs, and the first one is to understand what the program's purpose is
+The next step is to forget about actually writing the code, and just mentally picture what the logical steps towards getting the program finished are
+After that, start writing the syntax. This helps make sure the code's basic backbone will be in place, and that it will work properly
+% will get the remainder of two numbers after they are divided
+In eclipse, Ctrl+Shift+F formats the code to how it should be, which allows the user to have a simpler way of finding mistakes
